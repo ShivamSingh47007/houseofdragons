@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-11-19T00:47:10.653041",
+  "tests_executed": [
+    "test_file_discovery_and_macosx_exclusion",
+    "test_kahn_topological_sort_flow_ratios",
+    "test_stop_matcher_and_hierarchical_imputation",
+    "test_hysteresis_trip_sessionization",
+    "test_sweep_line_passenger_conservation",
+    "test_capacity_normalization_and_crowding_categories",
+    "test_empirical_bayes_shrinkage_bounds",
+    "test_router_three_pareto_journey_cards"
+  ],
+  "status": "PASSED",
+  "total_passed": 8,
+  "total_failed": 0
+}

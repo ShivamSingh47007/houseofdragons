@@ -1,0 +1,11 @@
+October-Delhi.csv
+*.csv
+*.zip
+*.7z
+__pycache__/
+*.pyc
+.pytest_cache/
+__MACOSX/
+*.log
+video/
+*.mp4
